@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Classes Reapack Indexer"/>
+<index version="1" name="Classes Reapack Indexer" commit="b2914fd0319d3895d39f784af64333e54537d0c1">
+  <category name="Items/Item Randomizer">
+    <reapack name="classes_Randomizer Item Parameters GUI.lua" type="script">
+      <version name="1.0" author="Daniel Lumertz" time="2024-03-28T02:15:01Z">
+        <source main="main">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/classes_Randomizer%20Item%20Parameters%20GUI.lua</source>
+        <source file="Functions/General Functions.lua">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/Functions/General%20Functions.lua</source>
+        <source file="Functions/Presets.lua">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/Functions/Presets.lua</source>
+        <source file="Functions/Randomize Function.lua">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/Functions/Randomize%20Function.lua</source>
+        <source file="Functions/User Interface.lua">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/Functions/User%20Interface.lua</source>
+        <source file="Functions/json.lua">https://github.com/daniellumertz/Classes-Reapack-Indexer/raw/b2914fd0319d3895d39f784af64333e54537d0c1/Items/Item%20Randomizer/Functions/json.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
